@@ -4,7 +4,7 @@ package cu
 #include <cuda.h>
 
 void CallHostFunc(void* fn){
-	handleCUDACB(fn);
+	//handleCUDACB(fn);
 };
 */
 import "C"
