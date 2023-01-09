@@ -1,4 +1,4 @@
-module gorgonia.org/cu
+module github.com/johnallen/cu
 
 go 1.13
 
